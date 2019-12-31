@@ -1,0 +1,13 @@
+npm 기본 디렉토리를 다른 디렉토리로 설정하는법
+https://programmingsummaries.tistory.com/374
+
+rails + react + webpack 세팅
+https://mnworld.co.kr/1902
+
+Rails 5 + Webpack + React + Capistrano 서버 세팅
+https://astrocket.com/rails-webpack-react-seting/
+
+벨로퍼트 블로그
+https://velopert.com/3626
+
+https://www.one-tab.com/page/BwJPqU-CQMKymtC1lLM_Pg
